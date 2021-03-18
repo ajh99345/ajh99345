@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm Ahn JunHyeok. 
+I am majoring in computer engineering.
+I'm currently learning argorithm.
+familiar with Java.
 <!--
 **ajh99345/ajh99345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
